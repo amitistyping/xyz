@@ -6,7 +6,6 @@ my change
 new text
 
 
-text added
 this is another change
 this is their change
 my change
