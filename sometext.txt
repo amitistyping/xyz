@@ -7,5 +7,7 @@ new text
 
 
 this is another change
+
+
 this is their change
 my change
